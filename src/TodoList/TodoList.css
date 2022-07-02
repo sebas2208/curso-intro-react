@@ -1,0 +1,13 @@
+ul {
+  margin: 0;
+  padding: 0 0 56px 0;
+  list-style: none;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+.err {
+  text-align: center;
+  margin: 0;
+  padding: 50px;
+}
